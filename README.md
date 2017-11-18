@@ -207,3 +207,4 @@
 | 8 | Edit  `navigation.cpp` - get velocity                                | Edit `navigation.cpp` - get position<br>`git pull -- rebase` |
 | 9 | Edit `bms.h` and `bms.cpp` - get voltage<br>`git pull --rebase` & resolve conflicts | Edit `bms.h` and `bms.cpp` - get current      |
 | 10 | Integrate BMS to pod - edit `pod.h` and `Makefile`                  | Integrate navigation to pod - edit `pod.h`, `pod.cpp` and `Makefile`<br>`git pull --rebase` & resolve conflicts |
+
