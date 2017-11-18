@@ -19,6 +19,7 @@ class Pod
     /// TASKS 3 (PERSON A) & 4 (PERSON B) //////////////////////////////////////
     //	
     double get_temperature();
+    double get_pressure();
     /// END OF TASKS 3A & 4B ///////////////////////////////////////////////////
 
 
