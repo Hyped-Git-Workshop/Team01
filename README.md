@@ -192,7 +192,8 @@
         * Commit both files in a single commit
         * Wait for your teammate to `git push` before you `git pull --rebase`
         * **SLOW DOWN** You've got some conflicts. Now go and carefully resolve them. Take your time.
-
+##Feedback
+Great workshop 10/10. Very useful, now I'm a git pro. 
 
 ### Summary of tasks
 |Task # | Person A                                                         | Person B                                                     |
